@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Aleix</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">👋 Hi there, I'm Aleix</h1>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🔭 I’m currently working on [GISCE](https://github.com/gisce)
+- 🔭 Currently, I'm dedicated to my work at [GISCE](https://github.com/gisce).
 
-- 🌱 I’m currently learning **Reactjs, Git, to an expertise level**
+- 🌱 I'm continuously expanding my knowledge in **React.js and Git**, striving for expertise.
 
-- 👯 I’m looking to collaborate on **React or Python projects**
+- 👯 I'm always open to collaborating on exciting projects involving **React or Python**.
 
-- 👨‍💻 I have a blog, a little bit unused [www.aleixsoler.com](www.aleixsoler.com)
+- 👨‍💻 I maintain a blog, although it's a bit dormant: [www.aleixsoler.com](https://www.aleixsoler.com).
 
-- 📝 I regularly write articles on [https://medium.com/@aleixsoler64](https://medium.com/@aleixsoler64)
+- 📝 I occasionally publish articles on [Medium](https://medium.com/@aleixsoler64).
 
-- 💬 Ask me about **react, javascript, typescript, python3, fastAPI, and maybe more things try it...**
+- 💬 Feel free to ask me about **React, JavaScript, TypeScript, Python 3, FastAPI, and more. Give it a try!**
 
-- 📫 How to reach me **aleixsoler64@gmail.com**
+- 📫 You can reach out to me via email at **aleixsoler64@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
