@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Aleix</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🔭 Currently, I'm dedicated to my work at [GISCE](https://github.com/gisce).
+- 🔭 Currently, I'm dedicated to my work at [GISCE](https://gisce.net/).
 
 - 🌱 I'm continuously expanding my knowledge, with a strong focus on React.js while also exploring various other technologies, both on the frontend and backend.
 
