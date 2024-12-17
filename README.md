@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Aleix</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🔭 Currently, I'm dedicated to my work at [GISCE](https://gisce.net/).
+- 🔭 Currently, I'm dedicated to my work at [Blue Room Innovation]([https://gisce.net/](https://www.blueroominnovation.com)).
 
 - 🌱 I'm continuously expanding my knowledge, with a strong focus on React.js while also exploring various other technologies, both on the frontend and backend.
 
-- 👯 I'm always open to collaborating on exciting projects involving JavaScript (React, etc.) or Python, as I'm a fan of both languages and their related technologies.
+- 👯 I'm always open to collaborating on exciting projects involving JavaScript/TypeScript (React, etc.) or Python, as I'm a fan of both languages and their related technologies.
 
 - 👨‍💻 I maintain a blog, although it's a bit dormant: [www.aleixsoler.com](https://www.aleixsoler.com).
 
