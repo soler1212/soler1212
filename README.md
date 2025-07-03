@@ -24,7 +24,7 @@ Looking for **JavaScript/TypeScript** or **Python** collaborations.
 **Legacy:** PHP (we don't talk about that)  
 **Data:** PostgreSQL, MySQL  
 **Tools:** Docker, Git, Linux, Nginx  
-**Daily drivers:** Linux + Neovim (as it should be)  
+**Daily drivers:** Linux + Neovim + Sway (as it should be)  
 
 ---
 
