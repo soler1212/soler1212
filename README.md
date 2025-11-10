@@ -23,7 +23,7 @@ Looking for **JavaScript/TypeScript** or **Python** collaborations.
 **Backend:** Python (FastAPI, Flask), Node.js(Moleculer)
 **Legacy:** PHP (we don't talk about that)  
 **Data:** PostgreSQL, MySQL, MongoSQL  
-**Tools:** Docker, Git, Linux, Nginx, Lazygit, TypeScript
+**Tools:** Docker, Git, Linux, Nginx, Lazygit, TypeScript  
 **Daily drivers:** Linux + Neovim + Sway (as it should be)  
 
 ---
