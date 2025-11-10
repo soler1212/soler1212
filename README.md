@@ -19,8 +19,8 @@ Looking for **JavaScript/TypeScript** or **Python** collaborations.
 
 ## Stack
 
-**Frontend:** React, NextJS
-**Backend:** Python (FastAPI, Flask), Node.js(Moleculer)
+**Frontend:** React, NextJS  
+**Backend:** Python (FastAPI, Flask), Node.js(Moleculer)  
 **Legacy:** PHP (we don't talk about that)  
 **Data:** PostgreSQL, MySQL, MongoSQL  
 **Tools:** Docker, Git, Linux, Nginx, Lazygit, TypeScript  
